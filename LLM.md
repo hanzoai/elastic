@@ -1,4 +1,4 @@
-# elastic — AI Assistant Context
+# elastic
 
 # Hanzo Elastic
 
